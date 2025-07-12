@@ -12,10 +12,10 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on: **Web apps, automation tools, and ML projects**
-- 🌱 I’m currently learning: **Node.js, React, Docker, and AI tools**
-- 💬 Ask me about: **Java, Web Dev, and GitHub automation**
-- 📫 Reach me at: **your.email@example.com**
+- 🔭 I’m currently working on: **Web apps, Data Analyst Tools, and ML projects**
+- 🌱 I’m currently learning: **React,ML,DL,and AI tools**
+- 💬 Ask me about: **ML, Web Dev, and Data Analyst**
+- 📫 Reach me at: **edinl497@gmail.com**
 - 🌐 Portfolio (coming soon): `https://ama114.github.io`
 
 ---
