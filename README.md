@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning: **React,ML,DL,and AI tools**
 - 💬 Ask me about: **ML, Web Dev, and Data Analyst**
 - 📫 Reach me at: **avdarshana2001@gmail.com**
-- 🌐 Portfolio : `https://avdarshana.vercel.app/`
+- 🌐 Portfolio : **https://avdarshana.vercel.app/**
 
 ---
 
