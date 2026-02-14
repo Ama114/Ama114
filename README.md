@@ -15,8 +15,8 @@
 - 🔭 I’m currently working on: **Web apps, Data Analyst Tools, and ML projects**
 - 🌱 I’m currently learning: **React,ML,DL,and AI tools**
 - 💬 Ask me about: **ML, Web Dev, and Data Analyst**
-- 📫 Reach me at: **edinl497@gmail.com**
-- 🌐 Portfolio (coming soon): `https://ama114.github.io`
+- 📫 Reach me at: **avdarshana2001@gmail.com**
+- 🌐 Portfolio : `https://avdarshana.vercel.app/`
 
 ---
 
